@@ -101,16 +101,16 @@ Global Test Software Development Center, Wuhan, China</br>
 * Leader of the team and also responsible for the marketing area.
 * The mini program is still applied by more than 300 users monthly now.
 
->[!comment] 
->![](/assets/carpool_100.png)
+<!-- >[!comment] 
+>![](/assets/carpool_100.png) -->
 
 #### ****Automatic Voice Translation and Classification****
 **Team Leader and Developer** `2018 Feb - 2018 July` </br>
 * Automatically translate the audio into transcripts based on DeepSpeech2.
 * With DeepCNNs, classify the transcriptions into five classes such as business, sports, country, Science, news.
 Gainesville,FL
->[!TIP|style:flat|label:DeepCNN|iconVisibility:hidden]
-> ![](/assets/seq2seq.png)
+<!-- >[!TIP|style:flat|label:DeepCNN|iconVisibility:hidden]
+> ![](/assets/seq2seq.png) -->
 <!-- tabs:end -->
 
 ### **Identification within short distance based on fingerprints and vein recognition**
