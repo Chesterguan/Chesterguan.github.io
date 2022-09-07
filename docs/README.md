@@ -102,7 +102,7 @@ Global Test Software Development Center, Wuhan, China</br>
 * The mini program is still applied by more than 300 users monthly now.
 
 >[!comment] 
->![](./assets/carpool_100.png)
+>![](/doc/assets/carpool_100.png)
 
 #### ****Automatic Voice Translation and Classification****
 **Team Leader and Developer** `2018 Feb - 2018 July` </br>
@@ -110,7 +110,7 @@ Global Test Software Development Center, Wuhan, China</br>
 * With DeepCNNs, classify the transcriptions into five classes such as business, sports, country, Science, news.
 Gainesville,FL
 >[!TIP|style:flat|label:DeepCNN|iconVisibility:hidden]
-> ![](./assets/seq2seq.png)
+> ![](/doc/assets/seq2seq.png)
 <!-- tabs:end -->
 
 ### **Identification within short distance based on fingerprints and vein recognition**
