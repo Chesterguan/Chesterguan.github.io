@@ -1,4 +1,4 @@
-![](/doc/assets/logo.jpg)
+![](/assets/logo.jpg)
 
 # Ziyuan Guan<small>@ufl.edu</small>
 > System Manager and Data Analyst.
