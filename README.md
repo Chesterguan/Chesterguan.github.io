@@ -1,9 +1,9 @@
-# Guan, Ziyuan
+# **ZIYUAN** GUAN
 
 **[ziyuan.guan@ufl.edu](mailto:ziyuan.guan@ufl.edu)**&nbsp;&nbsp;| 929-246-9913&nbsp;&nbsp;|
 *Gainesville, Florida*
 
-## Skills 
+## :fas fa-code: **SKILLS** 
 
 <!-- tabs:start -->
 ### ****Coding Languages****
@@ -46,7 +46,7 @@
 
 <!-- tabs:end -->
 
-## Professional Experience
+## :fa-solid fa-briefcase: **PROFESSIONAL EXPERIENCE**
 
 ### System Manager and Data Analyst at&nbsp;[Intelligent Critical Care Center](https://ic3.center.ufl.edu)&nbsp;`2021 Sep - Current`
 Deparment of Medicine, University of Florida</br>
@@ -82,14 +82,14 @@ Global Test Software Development Center, Wuhan, China</br>
 * Working with Testing Software Developers to complement the codes. Analyze the testing data and improve the testing quality.
 
 
-## Education
+## :fa-solid fa-school: **EDUCATION**
 
-- Master Electrical and Computer Engineering at University of Florida  `2017 Aug - 2019 May Gainesville, FL`
-- Bachelor Electrical and Computer Engineering at New York Institute of Technology `2013 Aug - 2017 Jun Manhattan, NYC`
-- Bachelor Electrical and Computer Engineering at Nanjing University of Posts and Telecommunications `2013 Aug - 2017 Jun Nanjing, China`
+- Master Electrical and Computer Engineering at **University of Florida**  `2017 Aug - 2019 May, Gainesville, FL`
+- Bachelor Electrical and Computer Engineering at **New York Institute of Technology** `2013 Aug - 2017 Jun, Manhattan, NYC`
+- Bachelor Electrical and Computer Engineering at **Nanjing University of Posts and Telecommunications** `2013 Aug - 2017 Jun, Nanjing, China`
 
 
-## Personal Projects
+## :fa-solid fa-bars-progress: **PERSONAL PROJECTS**
 
 <!-- tabs:start -->
 #### ****Gatorpool Wechat Mini Program****
@@ -101,16 +101,16 @@ Global Test Software Development Center, Wuhan, China</br>
 * Leader of the team and also responsible for the marketing area.
 * The mini program is still applied by more than 300 users monthly now.
 
-<!-- >[!comment] 
->![](/assets/carpool_100.png) -->
+>[!comment] 
+>![carpool image](/assets/carpool_100.png)
 
 #### ****Automatic Voice Translation and Classification****
 **Team Leader and Developer** `2018 Feb - 2018 July` </br>
 * Automatically translate the audio into transcripts based on DeepSpeech2.
 * With DeepCNNs, classify the transcriptions into five classes such as business, sports, country, Science, news.
 Gainesville,FL
-<!-- >[!TIP|style:flat|label:DeepCNN|iconVisibility:hidden]
-> ![](/assets/seq2seq.png) -->
+>[!TIP|style:flat|label:DeepCNN|iconVisibility:hidden]
+>![DeepCNN](/assets/seq2seq.png)
 <!-- tabs:end -->
 
 ### **Identification within short distance based on fingerprints and vein recognition**
@@ -133,13 +133,13 @@ Gainesville,FL
 * Recorded movements of patients under physical rehabilitation therapy with a mounted camera
 
 
-## Publications
+## :fa-solid fa-newspaper: **PUBLICATIONS**
 * [Network PPM](https://ps-vascular.ch/wp-content/uploads/2022/05/20220521-Surgery-Performance-of-a-Machine-Learning-Algorithm-Using-Electronic-Health-Record-Data-to-Predict-Postoperative-Complications-and-Report-on-a-Mobile-Platform.pdf)
 * [Application of Deep Interpolation Network for Clustering of Physiologic Time Series](https://arxiv.org/abs/2004.13066)
 * [Performance of a Machine Learning Algorithm Using Electronic Health Record Data to Predict Postoperative Complications and Report on a Mobile Platform](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2792367)
 * **Ziyuan Guan**, Mengye Qiang, Shilei Miao, “The identification of fingerprints based on Log Gabor Smoothing Waves within 8 directions and Invariant Moment” in Information Technology 2017.6
 
 
-## Patent
+## :fa-solid fa-copyright: **PATENTS**
 
 * Ziyuan Guan, Mengye Qiang, Shilei Miao. “Module Applied for Fingerprints Recognition” CHN Patent: ZL 2016 20390554.1, issued May 3, 2016.

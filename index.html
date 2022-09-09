@@ -10,22 +10,26 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css" integrity="sha512-R+xPS2VPCAFvLRy+I4PgbwkWjw1z5B5gNDYgJN5LfzV4gGNeRQyVrY7Uk59rX+c8tzz63j8DeZPLqmXvBxj8pA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/solid.min.css" integrity="sha512-EvFBzDO3WBynQTyPJI+wLCiV0DFXzOazn6aoy/bGjuIhGCZFh8ObhV/nVgDgL0HZYC34D89REh6DOfeJEWMwgg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
+  <!-- customized theme -->
+  <style>
+    :root {
+        --base-color:#d4d4d4;
+        --base-background-color: var(--mono-tint1);
+      }
+  </style>
 </head>
 <body>  
   <div id="app">Embracing AI in medical world ...</div>
   <script>
     window.$docsify = {
       name: "Resume",
-      repo: 'https://chesterguan.github.io/resume/',
+      repo: 'https://www.linkedin.com/in/ziyuanguan/',
       logo: '/assets/geek.jpg',
-      // corner: {
-      //   // the icon link url to another site  
-      //   url: "https://www.linkedin.com/in/ziyuanguan/",  
-      //   icon: "/assets/LinkedIn_logo.png", 
-      //   width: 60,
-      //   height:60
-      // },
+
       coverpage: true,
       maxLevel:2,
       auto2stop:true,
@@ -80,5 +84,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.min.js"></script> -->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 </body>
 </html>
