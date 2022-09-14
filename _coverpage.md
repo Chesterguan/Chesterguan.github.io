@@ -10,3 +10,5 @@
 [Blog](https://ziyuanguan.home.blog/)
 
 [Get Started](README.md) 
+
+![background](/assets/background.jpeg)
