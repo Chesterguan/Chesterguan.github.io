@@ -1,6 +1,6 @@
 # **ZIYUAN** GUAN
 
-**[ziyuan.guan@ufl.edu](mailto:ziyuan.guan@ufl.edu)**&nbsp;&nbsp;| 929-246-9913&nbsp;&nbsp;|
+**[ziyuan.guan@ufl.edu](mailto:ziyuan.guan@ufl.edu)**&nbsp;| 929-246-9913&nbsp;|
 *Gainesville, Florida*
 
 ## :fas fa-code: **SKILLS** 
