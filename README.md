@@ -48,19 +48,19 @@
 
 ## :fa-solid fa-briefcase: **PROFESSIONAL EXPERIENCE**
 
-### System Manager and Data Analyst at&nbsp;[Intelligent Critical Care Center](https://ic3.center.ufl.edu)
+### System Manager and Data Scientist at&nbsp;[Intelligent Critical Care Center](https://ic3.center.ufl.edu)
 Deparment of Medicine, University of Florida &nbsp;`2021 Sep - Current`</br>
 
 * Design, develop and maintain distributed systems built with multiple Linux servers.
 * Design, develop Electrical Health Data(EHR) data processing pipeines with Kafka, Spark, RabbitMQ.
 * Design, develop and maintain [Pervasive ICU monitoring system](https://reporter.nih.gov/search/LmFxLzE6dkWDzqgiWD4p8g/project-details/10178157).
-* Fullstack experience in development of web and mobile applications with React and Flutter framework..
+* Fullstack experience in development of web and mobile applications with React and Flutter framework.
 * Develop and maintain organization's databases.
 * Manage and maintain organization's codes versioning.
 * Lead system and data cores to work with multiple projects.
 * Participation in admin jobs to provide with technical suggestions and making system plans.
 
-### Data Analyst OPS, System Core at&nbsp;[PrismaP Lab](https://prismap.medicine.ufl.edu/)
+### Data Analyst, System Core at&nbsp;[PrismaP Lab](https://prismap.medicine.ufl.edu/)
 Deparment of Medicine, University of Florida &nbsp;`2019 Aug - 2021 Sep`</br>
 
 * Responsible for the modification and optimization of [MySurgeryRisk system](https://www.altmetric.com/details/33820212).
@@ -134,6 +134,7 @@ Gainesville,FL
 
 
 ## :fa-solid fa-newspaper: **PUBLICATIONS**
+**[Google Scholar](https://scholar.google.com/citations?user=VsYXfV8AAAAJ&hl=en&oi=ao)**
 * [Network PPM](https://ps-vascular.ch/wp-content/uploads/2022/05/20220521-Surgery-Performance-of-a-Machine-Learning-Algorithm-Using-Electronic-Health-Record-Data-to-Predict-Postoperative-Complications-and-Report-on-a-Mobile-Platform.pdf)
 * [Application of Deep Interpolation Network for Clustering of Physiologic Time Series](https://arxiv.org/abs/2004.13066)
 * [Performance of a Machine Learning Algorithm Using Electronic Health Record Data to Predict Postoperative Complications and Report on a Mobile Platform](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2792367)
